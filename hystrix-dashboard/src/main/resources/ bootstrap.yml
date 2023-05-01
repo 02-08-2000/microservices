@@ -1,0 +1,5 @@
+spring:
+  cloud:
+    config:
+      enable: true
+      url : http://localhost:9296
